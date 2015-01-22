@@ -1,6 +1,8 @@
 
 $(document).ready(function(){ 
 	
+        
+        
 	// Add the value of "Search..." to the input field and a class of .empty
 	$("#search").val("Search...").addClass("empty");
 	

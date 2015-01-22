@@ -7,7 +7,11 @@ and open the template in the editor.
     Created on : Jan 8, 2015, 9:12:58 AM
     Author     : Student
 */
-body { background-image: url("images/i48Zpqonun5fw.jpg")
+/*body { background-image: url("images/i48Zpqonun5fw.jpg")
+}
+*/
+body {
+    background-image: url("http://gifyoutube.com/gif/Ke2Xx8")
 }
 p { background-image: none }
 .jumbotron {
